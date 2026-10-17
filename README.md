@@ -1,5 +1,5 @@
 ## CS 691 Project
-# Optimization of Warehouse Process Management
+# Warematic App - Optimization of Warehouse Process Management
 ## Pace University,NYC
 ## Seidenberg School of CSIS
 ## Guided By: Prof. Henry T. Wong
